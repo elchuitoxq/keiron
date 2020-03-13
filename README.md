@@ -36,3 +36,6 @@
     <img src="http://drive.google.com/uc?export=view&id=1zvLrq56mWCY5h7g4-BQimAUL4hLl_LFB">
 </div>
 
+<h3>Espero su pronta respuesta Atte: Edgardo Perez</h3>
+<p>Email: edgardoperezumu@gmail.com</p>
+<p>Telefono: 9-5362-3364</p>
