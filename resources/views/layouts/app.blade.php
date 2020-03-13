@@ -80,6 +80,12 @@
         <main class="py-4">
             @yield('content')
         </main>
+
+        <footer class="footer">
+            <div class="container">
+              <span class="text-muted">Correo de contacto: edgardoperezumu@gmail.com</span>
+            </div>
+        </footer>
     </div>
 </body>
 </html>
