@@ -16,7 +16,20 @@
     <li>cp .env.example .env</li>
     <li>composer install</li>
     <li>php artisan key:generate</li>
+    <li>Crear un base de datos llamada "keiron" para montar la migracion</li>
+    <li>php artisan migrate --seed</li>
     <li>npm install</li>
     <li>npm run dev</li>
     <li>php artisan serve</li>
 </ul>
+<h3>Sesiones</h3>
+<li>Usuario rol admin: admin@admin.com | Contraseña: password</li>
+<li>Usuario rol usuario: user@user.com | Contraseña: password</li>
+<h3>Generando ticket desde el admin desde la tabla usuarios</h3>
+<img src="http://drive.google.com/uc?export=view&id=1bgZGT0zchiTmgUBSvp8NMV4tSWt_3Wrc">
+<h3>Listando estado de tickets</h3>
+<img src="http://drive.google.com/uc?export=view&id=1cN7DJm7XJ8MwUdicJzJ8tn0CUQVCW4oh">
+<h3>Usar ticket usuario</h3>
+<img src="http://drive.google.com/uc?export=view&id=1Hm6IMO5nVShaldV_qfWfQWH5y2eJYmi2">
+<h3>Usando Ticket</h3>
+<img src="http://drive.google.com/uc?export=view&id=1zvLrq56mWCY5h7g4-BQimAUL4hLl_LFB">
